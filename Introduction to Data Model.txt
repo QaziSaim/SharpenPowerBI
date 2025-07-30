@@ -1,0 +1,45 @@
+📊 Power BI Data Model
+A Data Model in Power BI is a structured way to organize, connect, and manage all your data tables and relationships. It forms the foundation for performing analysis and building visualizations.
+
+🔍 Why Data Modeling is Important
+Organizes Data:
+
+Helps structure data properly.
+
+Clearly defines relationships between tables.
+
+Enables Complex Analysis:
+
+Allows combining data from multiple sources.
+
+Helps work with data of different formats and structures.
+
+Improves Performance:
+
+Optimized data models reduce unnecessary calculations.
+
+Enhances report responsiveness.
+
+Drives Better Visualizations:
+
+A well-structured model ensures meaningful and accurate visualizations.
+
+Relationships make it easy to pull relevant data together.
+
+🧩 Key Components of a Data Model
+Tables (Entities): Represent the data sources and contain fields/columns.
+
+Relationships: Links between tables based on common fields (keys).
+
+Calculations: Include calculated columns and measures used in reports.
+
+✅ Basic Best Practices
+Keep the model simple and clean.
+
+Use direct and meaningful relationships (e.g., Sales → Customer, Sales → Product).
+
+Avoid unnecessary complex joins.
+
+Normalize data where possible to reduce redundancy.
+
+A well-designed model leads to powerful, efficient, and insightful reports.
