@@ -1,0 +1,13 @@
+Schema
+In power bi schema is organization and structure of tables within data bond
+define logical group of object and frameworks
+why
+data organization within the data model
+Query Optimization
+Collaborations
+Standardize the schema desing
+multiple people work at same 
+Component of Schema
+table Schema
+Column Schema
+Relation Schema (between tables)
